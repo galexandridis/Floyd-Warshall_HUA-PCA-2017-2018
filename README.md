@@ -8,4 +8,5 @@ Parallel Implementation of Floyd-Warshall Algorithm using OpenMP and MPI.
 ## Executing
 _TODO_
 
-## [Project Explanation](https://github.com/galexandridis/Floyd-Warshall_HUA-PCA-2017-2018/wiki/Project-Explanation)
+## Project Explanation
+To see the project's explanation click [here](https://github.com/galexandridis/Floyd-Warshall_HUA-PCA-2017-2018/wiki/Project-Explanation).
